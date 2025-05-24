@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|c:\\users\\baver\\onedrive\\masa\u00FCst\u00FC\\github\\personelkayitsistemi-main\\personelkayitsistemi\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|solutionrelative:personelkayitsistemi\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\personelkayitsistemi\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|solutionrelative:personelkayitsistemi\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\personelkayitsistemi\\frm_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|solutionrelative:personelkayitsistemi\\frm_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\personelkayitsistemi\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|solutionrelative:personelkayitsistemi\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\personelkayitsistemi\\frm_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|solutionrelative:personelkayitsistemi\\frm_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\personelkayitsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|solutionrelative:personelkayitsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\personelkayitsistemi\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|solutionrelative:personelkayitsistemi\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\personelkayitsistemi\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|solutionrelative:personelkayitsistemi\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\personelkayitsistemi\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4C4699-0A13-459B-A36E-D939FD227416}|PersonelKayitSistemi\\PersonelKayitSistemi.csproj|solutionrelative:personelkayitsistemi\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "PersonelKayitSistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\Program.cs",
+              "RelativeToolTip": "PersonelKayitSistemi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:58:50.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_Giris.cs",
+              "DocumentMoniker": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\Frm_Giris.cs",
+              "RelativeDocumentMoniker": "PersonelKayitSistemi\\Frm_Giris.cs",
+              "ToolTip": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\Frm_Giris.cs",
+              "RelativeToolTip": "PersonelKayitSistemi\\Frm_Giris.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:58:16.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frm_Giris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\Frm_Giris.cs",
+              "RelativeDocumentMoniker": "PersonelKayitSistemi\\Frm_Giris.cs",
+              "ToolTip": "C:\\Users\\baver\\Downloads\\PersonelKayitSistemi-main\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\Frm_Giris.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\PersonelKayitSistemi-main\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\Frm_Giris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:42:02.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAnaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "PersonelKayitSistemi\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\FrmAnaForm.cs [Design]",
+              "RelativeToolTip": "PersonelKayitSistemi\\FrmAnaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:52:21.877Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmIstatistik.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\FrmIstatistik.cs",
+              "RelativeDocumentMoniker": "PersonelKayitSistemi\\FrmIstatistik.cs",
+              "ToolTip": "C:\\Users\\baver\\Downloads\\PersonelKayitSistemi-main\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\FrmIstatistik.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\PersonelKayitSistemi-main\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\FrmIstatistik.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:01:46.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmIstatistik.cs",
+              "DocumentMoniker": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\FrmIstatistik.cs",
+              "RelativeDocumentMoniker": "PersonelKayitSistemi\\FrmIstatistik.cs",
+              "ToolTip": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\FrmIstatistik.cs",
+              "RelativeToolTip": "PersonelKayitSistemi\\FrmIstatistik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:09:35.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmGrafikler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "PersonelKayitSistemi\\FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeler\\SQL\\PersonelKayitSistemi\\PersonelKayitSistemi\\FrmGrafikler.cs [Design]",
+              "RelativeToolTip": "..\\..\\Udemy Projeler\\SQL\\PersonelKayitSistemi\\PersonelKayitSistemi\\FrmGrafikler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:15:15.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmGrafikler.cs",
+              "DocumentMoniker": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "PersonelKayitSistemi\\FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\FrmGrafikler.cs",
+              "RelativeToolTip": "PersonelKayitSistemi\\FrmGrafikler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:18:22.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "PersonelKayitSistemi\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\PersonelKayitSistemi-main\\PersonelKayitSistemi\\FrmAnaForm.cs",
+              "RelativeToolTip": "PersonelKayitSistemi\\FrmAnaForm.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAcwIsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:15:22.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
