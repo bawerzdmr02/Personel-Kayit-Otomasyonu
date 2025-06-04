@@ -11,6 +11,9 @@ Windows Forms ile geliştirilen bu uygulama, personel bilgilerini SQL Server ver
 
 ## 📸 Ekran Görüntüleri
 ![Giriş Ekranı](https://github.com/bawerzdmr02/Personel-Kayit-Otomasyonu/blob/main/PersonelGiris.png)
+![Ana Sayfa](https://github.com/bawerzdmr02/Personel-Kayit-Otomasyonu/blob/main/PersonelAnaSayfa.png)
+![Personel Grafikleri](https://github.com/bawerzdmr02/Personel-Kayit-Otomasyonu/blob/main/PersonelGrafik.png)
+![Personel İstatikleri](https://github.com/bawerzdmr02/Personel-Kayit-Otomasyonu/blob/main/PersonelIstatistik.png)
 
 ## 🚀 Başlangıç
 
