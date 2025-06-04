@@ -10,8 +10,7 @@ Windows Forms ile geliştirilen bu uygulama, personel bilgilerini SQL Server ver
 - DataGridView, RadioButton, ComboBox gibi Form bileşenleri
 
 ## 📸 Ekran Görüntüleri
-> Görselleri buraya ekleyebilirsiniz  
-> Örn: `![Ekran Görüntüsü](screenshots/form1.png)`
+![Giriş Ekranı](https://github.com/bawerzdmr02/Personel-Kayit-Otomasyonu/blob/main/PersonelGiris.png)
 
 ## 🚀 Başlangıç
 
