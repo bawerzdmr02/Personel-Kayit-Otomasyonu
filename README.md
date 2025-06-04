@@ -83,4 +83,3 @@ Bu proje kişisel eğitim amaçlı oluşturulmuştur. Gönül rahatlığıyla in
 
 **Hazırlayan:** [bawerzdmr02]  
 **Proje:** Personel Kayıt Sistemi# PersonelKayitSistemi
-# Personel-Kayit-Otomasyonu
