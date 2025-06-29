@@ -1,0 +1,13 @@
+C:\Users\baver\OneDrive\Masaüstü\github\PersonelKayitSistemi\PersonelKayitSistemi\bin\Debug\PersonelKayitSistemi.exe.config
+C:\Users\baver\OneDrive\Masaüstü\github\PersonelKayitSistemi\PersonelKayitSistemi\bin\Debug\PersonelKayitSistemi.exe
+C:\Users\baver\OneDrive\Masaüstü\github\PersonelKayitSistemi\PersonelKayitSistemi\bin\Debug\PersonelKayitSistemi.pdb
+C:\Users\baver\OneDrive\Masaüstü\github\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\baver\OneDrive\Masaüstü\github\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.Properties.Resources.resources
+C:\Users\baver\OneDrive\Masaüstü\github\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.csproj.GenerateResource.cache
+C:\Users\baver\OneDrive\Masaüstü\github\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\baver\OneDrive\Masaüstü\github\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.exe
+C:\Users\baver\OneDrive\Masaüstü\github\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.pdb
+C:\Users\baver\OneDrive\Masaüstü\github\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.FrmGrafikler.resources
+C:\Users\baver\OneDrive\Masaüstü\github\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.FrmIstatistik.resources
+C:\Users\baver\OneDrive\Masaüstü\github\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.FrmAnaForm.resources
+C:\Users\baver\OneDrive\Masaüstü\github\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.FrmGiris.resources
