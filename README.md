@@ -10,8 +10,11 @@ Windows Forms ile geliştirilen bu uygulama, personel bilgilerini SQL Server ver
 - DataGridView, RadioButton, ComboBox gibi Form bileşenleri
 
 ## 📸 Ekran Görüntüleri
-> Görselleri buraya ekleyebilirsiniz  
-> Örn: `![Ekran Görüntüsü](screenshots/form1.png)`
+![Giriş Form](https://github.com/bawerzdmr02/Personel-Kayit-Otomasyonu/blob/main/Assets/GirisForm.png)
+![Ana Form](https://github.com/bawerzdmr02/Personel-Kayit-Otomasyonu/blob/main/Assets/AnaForm.png)
+![Grafikler Form](https://github.com/bawerzdmr02/Personel-Kayit-Otomasyonu/blob/main/Assets/GrafiklerForm.png)
+![İstatistik Form](https://github.com/bawerzdmr02/Personel-Kayit-Otomasyonu/blob/main/Assets/%C4%B0statistikForm.png)
+
 
 ## 🚀 Başlangıç
 
@@ -19,7 +22,7 @@ Projeyi çalıştırmak için aşağıdaki adımları izleyin:
 
 ### 1. Projeyi Kopyalayın
 ```bash
-git clone https://github.com/kullaniciadi/PersonelKayitSistemi.git
+git clone https://github.com/bawerzdmr02/Personel-Kayit-Otomasyonu.git
 ```
 
 ### 2. Visual Studio ile Açın
