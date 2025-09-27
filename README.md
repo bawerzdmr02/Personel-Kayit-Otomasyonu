@@ -82,5 +82,5 @@ Bu proje kişisel eğitim amaçlı oluşturulmuştur. Gönül rahatlığıyla in
 
 ---
 
-**Hazırlayan:** [bawerzdmr02]
+**Hazırlayan:** bawerzdmr02                       
 **Proje:** Personel-Kayit-Otomasyonu
